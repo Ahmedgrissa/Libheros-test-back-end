@@ -10,11 +10,11 @@ Returns available rooms based on filters(date, starting time, ending time, capac
 * Verifies if the conference is possible in the selected date and time.
 * Sends back the rooms available.
 
-Books a room based on the filters chosen by the client. the booking is saved in the distant MongoDB Database and the file "bookings.json" 
+Books a room based on the filters chosen by the client. the booking is saved in the distant MongoDB Database and the file "bookings.json".
 
 Besides these two functions, the server provides the basic operations on the room Model:
 
-Create, Show, Delete and Update a room 
+Create, Show, Delete and Update a room.
 
 ## Getting Started
 
